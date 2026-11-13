@@ -4,6 +4,8 @@
 
 \## About the Project
 
+
+
 UrbanNest is a web-based house rental management system designed to connect property owners and users. It provides functionality for managing property listings, user accounts, house details, and payments.
 
 
@@ -116,5 +118,5 @@ The purpose of UrbanNest is to simplify property listing and rental management t
 
 
 
-GitHub: \[ShreyaShirur4](https://github.com/ShreyaShirur4)
+GitHub: https://github.com/ShreyaShirur4
 
